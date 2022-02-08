@@ -1,0 +1,35 @@
+body {
+  text-align: center;
+  background-color: #2E3541;
+}
+
+
+h1,
+p {
+  font-family: 'Montserrat', sans-serif;
+  color: #69A0C0;
+}
+
+a {
+  color: #e94747;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#todays-challenge {
+  text-decoration:underline;
+  text-decoration-color: yellow;
+  text-decoration-thickness: 40%;
+  font-weight: 600;
+  font-size: 52px;
+  font-family: 'IBM Plex Sans Thai Looped', sans-serif;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
