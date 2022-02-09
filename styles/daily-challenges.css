@@ -1,22 +1,5 @@
 body {
-  text-align: center;
-  background-color: #2E3541;
-}
-
-
-h1,
-p {
-  font-family: 'Montserrat', sans-serif;
-  color: #69A0C0;
-}
-
-a {
-  color: #e94747;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
+  margin: 50px;
 }
 
 #todays-challenge {
